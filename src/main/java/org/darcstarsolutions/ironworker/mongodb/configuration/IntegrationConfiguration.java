@@ -13,7 +13,7 @@ public class IntegrationConfiguration {
 
     @Bean
     public Client client() {
-        return new Client("2L8sQ7unT2tA4NIU1lAARHz3DPs", "555aa4533c824c000600001a");
+        return new Client("YOUR API TOKEN", "YOUR PROJECT ID");
     }
 
 
